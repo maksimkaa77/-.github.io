@@ -16,9 +16,9 @@ main {
 }
 
 header {
-}
 	background-color: #222222;
 	padding: 55px 160px 120px 160px;
+}
 
 nav {
 	display: flex; 
